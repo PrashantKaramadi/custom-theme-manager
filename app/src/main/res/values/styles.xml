@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default App Theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/defaultPrimary</item>
+        <item name="colorPrimaryDark">@color/defaultPrimaryDark</item>
+        <item name="colorAccent">@color/defaultAccent</item>
+        <item name="textColor">@color/defaultTextColor</item>
+    </style>
+
+    <!-- Alternate Theme -->
+    <style name="AlternateTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/alternatePrimary</item>
+        <item name="colorPrimaryDark">@color/alternatePrimaryDark</item>
+        <item name="colorAccent">@color/alternateAccent</item>
+        <item name="textColor">@color/alternatePrimaryDark</item>
+    </style>
+
+</resources>
